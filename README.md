@@ -17,7 +17,16 @@ Skilled in **Python, SQL, Power BI, and econometrics**, I enjoy working with com
 ---
 
 ## 🚀 Projects
-📌 Economic_Indicators_Forecasting
+### 📊 Economic Indicators Forecasting 🇬🇷
+🔗 **[View Project on GitHub](https://github.com/konstantinosmanos/Economic_Indicators_Forecasting)**  
+📌 **Analyzing and forecasting Greece’s GDP Growth, Inflation Rate, and Unemployment Rate using Python and VAR models.**  
+- 🏛 **Data Source:** World Bank (1991 - 2023)  
+- 📈 **Methods:** Data Cleaning, Correlation Analysis, Regression, Time Series Forecasting (VAR)  
+- 📊 **Key Findings:** Supports Okun’s Law & Phillips Curve  
+- 🔮 **Forecasting:** GDP Growth, Inflation, and Unemployment for the next 5 years  
+
+![GDP Growth Forecast](https://raw.githubusercontent.com/konstantinosmanos/economic-indicators-forecasting/main/charts/Forecast_growth_Greece_5years.png)
+
 
 ---
 

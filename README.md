@@ -25,7 +25,7 @@ Skilled in **Python, SQL, Power BI, and econometrics**, I enjoy working with com
 - 📊 **Key Findings:** Supports Okun’s Law & Phillips Curve  
 - 🔮 **Forecasting:** GDP Growth, Inflation, and Unemployment for the next 5 years  
 
-![GDP Growth Forecast](https://raw.githubusercontent.com/konstantinosmanos/economic-indicators-forecasting/main/charts/Forecast_growth_Greece_5years.png)
+![GDP Growth Forecast](https://github.com/konstantinosmanos/economic-indicators-forecasting/blob/main/charts/Forecast_growth_Greece_5years.png?raw=true)
 
 
 ---

@@ -17,8 +17,7 @@ Skilled in **Python, SQL, Power BI, and econometrics**, I enjoy working with com
 ---
 
 ## 🚀 Projects
-🔹 **Coming soon...** *(Showcase your best projects here!)*  
-📌 Pin them in this repository list!  
+📌 Economic_Indicators_Forecasting
 
 ---
 

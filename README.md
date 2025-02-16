@@ -30,13 +30,7 @@ Skilled in **Python, SQL, Power BI, and econometrics**, I enjoy working with com
 
 ---
 
-## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=konstantinosmanos&show_icons=true&theme=tokyonight)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=konstantinosmanos&layout=compact&theme=tokyonight)  
-
----
 
 ## 🔗 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/konstantinosmanos)  

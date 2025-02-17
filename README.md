@@ -17,6 +17,31 @@ Skilled in **Python, SQL, Power BI, and econometrics**, I enjoy working with com
 ---
 
 ## 🚀 Projects
+
+### 📊 Netherlands Banking Risk
+🔗 **[View Project on GitHub](https://github.com/konstantinosmanos/Netherlands_Banking_Risk)**
+📌 **A comprehensive risk analysis of Dutch and European banks using Python. The project covers Value-at-Risk (VaR), Expected Shortfall (ES), stress testing (COVID-19 impact), and volatility forecasting (GARCH).** 
+- 📊 **Banks Analyzed:** NN Group 🇳🇱, ING Group 🇳🇱, ABN AMRO 🇳🇱, KBC Group 🇧🇪, Deutsche Bank 🇩🇪  
+- 📈 **Risk Metrics:** Historical & Parametric VaR, Expected Shortfall, Volatility Analysis  
+- 🏦 **Stress Testing:** Market impact during **COVID-19 financial crisis**  
+- 🔮 **Forecasting:** Future volatility trends using **GARCH(1,1) models** 
+![ Rolling 30-Day Volatility of Bank Stocks](https://github.com/konstantinosmanos/Netherlands_Banking_Risk/blob/main/Rolling_30_day_volatility.png?raw=true)
+
+---
+
+### 📊 Economic Indicators Forecasting 🇬🇷  
+🔗 **[View Project on GitHub](https://github.com/konstantinosmanos/Economic_Indicators_Forecasting)**  
+📌 **Analyzing and forecasting Greece’s GDP Growth, Inflation Rate, and Unemployment Rate using Python and VAR models.**  
+- 🏛 **Data Source:** World Bank (1991 - 2023)  
+- 📈 **Methods:** Data Cleaning, Correlation Analysis, Regression, Time Series Forecasting (VAR)  
+- 📊 **Key Findings:** Supports **Okun’s Law** & **Phillips Curve**  
+- 🔮 **Forecasting:** GDP Growth, Inflation, and Unemployment for the next 5 years  
+![GDP Growth Forecast](https://github.com/konstantinosmanos/Economic_Indicators_Forecasting/blob/main/Forecast_growth_Greece_5years.png?raw=true)
+---
+
+💡 **More projects coming soon!** 🚀
+
+
 ### 📊 Economic Indicators Forecasting 🇬🇷
 🔗 **[View Project on GitHub](https://github.com/konstantinosmanos/Economic_Indicators_Forecasting)**  
 📌 **Analyzing and forecasting Greece’s GDP Growth, Inflation Rate, and Unemployment Rate using Python and VAR models.**  

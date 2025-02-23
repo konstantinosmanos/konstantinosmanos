@@ -29,6 +29,18 @@ Skilled in **Python, SQL, Power BI, and econometrics**, I enjoy working with com
 
 ---
 
+### 📊 SQL Financial Reconciliation  
+🔗 **[View Project on GitHub](https://github.com/konstantinosmanos/Financial_Reconciliation_SQL)**  
+
+📌 **An end-to-end SQL-based financial reconciliation project using PostgreSQL & Python. This project focuses on financial transaction analysis, missing payments, and revenue trends.**  
+
+- 🏦 **Data Modeled:** Orders, Payments, and Invoices  
+- 🔍 **SQL Queries:** Order-to-Cash reconciliation, Unpaid invoices, Missing payments  
+- 📈 **Data Visualization:** Python (Matplotlib & Seaborn)  
+- 📊 **Key Insights:** Revenue trends, Payment patterns, and Order validation  
+
+
+---
 ### 📊 Economic Indicators Forecasting 🇬🇷  
 🔗 **[View Project on GitHub](https://github.com/konstantinosmanos/Economic_Indicators_Forecasting)**  
 📌 **Analyzing and forecasting Greece’s GDP Growth, Inflation Rate, and Unemployment Rate using Python and VAR models.**  

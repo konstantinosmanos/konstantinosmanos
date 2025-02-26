@@ -41,6 +41,19 @@ Skilled in **Python, SQL, Power BI, and econometrics**, I enjoy working with com
 
 
 ---
+
+### IT Asset & Cost Management in Excel
+🔗 **[View Project on GitHub](https://github.com/konstantinosmanos/IT_Asset_and_Cost_Management_in_Excel)**
+
+📌 **An Excel-based project focused on IT asset and cost management analysis. This project showcases data cleaning, asset tracking, cost analysis, and compliance monitoring using advanced Excel functions and visualizations.**
+
+-💾 **Data Modeled:** IT assets, Vendors, Costs, and Compliance Status
+-🔍 **Excel Functions Used:** IF, COUNTIF, SUMIFS, AVERAGEIF
+-📊 **Data Visualization:** Charts, Pivot Tables
+-📈 **Key Insights:** Asset lifecycle status, Cost distribution, Vendor performance, and Compliance trends
+
+---
+
 ### 📊 Economic Indicators Forecasting 🇬🇷  
 🔗 **[View Project on GitHub](https://github.com/konstantinosmanos/Economic_Indicators_Forecasting)**  
 📌 **Analyzing and forecasting Greece’s GDP Growth, Inflation Rate, and Unemployment Rate using Python and VAR models.**  

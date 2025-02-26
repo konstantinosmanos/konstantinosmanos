@@ -31,7 +31,6 @@ Skilled in **Python, SQL, Power BI, and econometrics**, I enjoy working with com
 
 ### 📊 SQL Financial Reconciliation  
 🔗 **[View Project on GitHub](https://github.com/konstantinosmanos/Financial_Reconciliation_SQL)**  
-
 📌 **An end-to-end SQL-based financial reconciliation project using PostgreSQL & Python. This project focuses on financial transaction analysis, missing payments, and revenue trends.**  
 
 - 🏦 **Data Modeled:** Orders, Payments, and Invoices  
@@ -44,7 +43,6 @@ Skilled in **Python, SQL, Power BI, and econometrics**, I enjoy working with com
 
 ### IT Asset & Cost Management in Excel
 🔗 **[View Project on GitHub](https://github.com/konstantinosmanos/IT_Asset_and_Cost_Management_in_Excel)**
-
 📌 **An Excel-based project focused on IT asset and cost management analysis. This project showcases data cleaning, asset tracking, cost analysis, and compliance monitoring using advanced Excel functions and visualizations.**
 
 - 💾 **Data Modeled:** IT assets, Vendors, Costs, and Compliance Status
